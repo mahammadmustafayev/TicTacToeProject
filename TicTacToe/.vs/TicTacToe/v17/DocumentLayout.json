@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TicTacToe\\",
+  "WorkspaceRootPath": "D:\\Projects\\TicTacToeProject\\TicTacToe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE3DCCFE-8DFE-4290-9FA8-2323C9BFB761}|TicTacToe\\TicTacToe.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\projects\\tictactoe\\tictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE3DCCFE-8DFE-4290-9FA8-2323C9BFB761}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE3DCCFE-8DFE-4290-9FA8-2323C9BFB761}|TicTacToe\\TicTacToe.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\projects\\tictactoe\\tictactoe\\views\\tictactoe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CE3DCCFE-8DFE-4290-9FA8-2323C9BFB761}|TicTacToe\\TicTacToe.csproj|d:\\projects\\tictactoeproject\\tictactoe\\tictactoe\\views\\tictactoe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CE3DCCFE-8DFE-4290-9FA8-2323C9BFB761}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\views\\tictactoe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE3DCCFE-8DFE-4290-9FA8-2323C9BFB761}|TicTacToe\\TicTacToe.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\projects\\tictactoe\\tictactoe\\controllers\\tictactoecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE3DCCFE-8DFE-4290-9FA8-2323C9BFB761}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\controllers\\tictactoecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE3DCCFE-8DFE-4290-9FA8-2323C9BFB761}|TicTacToe\\TicTacToe.csproj|d:\\projects\\tictactoeproject\\tictactoe\\tictactoe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE3DCCFE-8DFE-4290-9FA8-2323C9BFB761}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE3DCCFE-8DFE-4290-9FA8-2323C9BFB761}|TicTacToe\\TicTacToe.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\projects\\tictactoe\\tictactoe\\models\\tictactoeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE3DCCFE-8DFE-4290-9FA8-2323C9BFB761}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\models\\tictactoeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE3DCCFE-8DFE-4290-9FA8-2323C9BFB761}|TicTacToe\\TicTacToe.csproj|d:\\projects\\tictactoeproject\\tictactoe\\tictactoe\\controllers\\tictactoecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3DCCFE-8DFE-4290-9FA8-2323C9BFB761}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\controllers\\tictactoecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TicTacToe\\TicTacToe\\Program.cs",
-              "RelativeDocumentMoniker": "TicTacToe\\Program.cs",
-              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TicTacToe\\TicTacToe\\Program.cs",
-              "RelativeToolTip": "TicTacToe\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T15:10:04.044Z",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projects\\TicTacToeProject\\TicTacToe\\TicTacToe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TicTacToe\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projects\\TicTacToeProject\\TicTacToe\\TicTacToe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TicTacToe\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T06:07:37.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TicTacToe\\TicTacToe\\Views\\TicTacToe\\Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\TicTacToeProject\\TicTacToe\\TicTacToe\\Views\\TicTacToe\\Index.cshtml",
               "RelativeDocumentMoniker": "TicTacToe\\Views\\TicTacToe\\Index.cshtml",
-              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TicTacToe\\TicTacToe\\Views\\TicTacToe\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\TicTacToeProject\\TicTacToe\\TicTacToe\\Views\\TicTacToe\\Index.cshtml",
               "RelativeToolTip": "TicTacToe\\Views\\TicTacToe\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T15:08:20.951Z"
+              "WhenOpened": "2024-08-24T15:08:20.951Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TicTacToeController.cs",
-              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TicTacToe\\TicTacToe\\Controllers\\TicTacToeController.cs",
+              "DocumentMoniker": "D:\\Projects\\TicTacToeProject\\TicTacToe\\TicTacToe\\Controllers\\TicTacToeController.cs",
               "RelativeDocumentMoniker": "TicTacToe\\Controllers\\TicTacToeController.cs",
-              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TicTacToe\\TicTacToe\\Controllers\\TicTacToeController.cs",
+              "ToolTip": "D:\\Projects\\TicTacToeProject\\TicTacToe\\TicTacToe\\Controllers\\TicTacToeController.cs",
               "RelativeToolTip": "TicTacToe\\Controllers\\TicTacToeController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAgAAAAbAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T15:05:51.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TicTacToeEntity.cs",
-              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TicTacToe\\TicTacToe\\Models\\TicTacToeEntity.cs",
-              "RelativeDocumentMoniker": "TicTacToe\\Models\\TicTacToeEntity.cs",
-              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\TicTacToe\\TicTacToe\\Models\\TicTacToeEntity.cs",
-              "RelativeToolTip": "TicTacToe\\Models\\TicTacToeEntity.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAcwFIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T14:55:41.907Z"
+              "WhenOpened": "2024-08-24T15:05:51.436Z",
+              "EditorCaption": ""
             }
           ]
         }

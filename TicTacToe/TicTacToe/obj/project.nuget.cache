@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5nwYzRMBJlxNxBXVmkEkhrMiZsUKK0WiCUmvKww1WxRiAPDzr5SoJzRhMkTtT+eod9zEoe4C4xiK1CFP+z0shw==",
+  "dgSpecHash": "7ph4+ag6JAGwPziqsIbiBagGM474ZF9/rZHbcPwzzSh9JtmGHasNnD4ONoqOT+PC5Rd0rss+BzmXMeOeb7DttQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Projects\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+  "projectFilePath": "D:\\Projects\\TicTacToeProject\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\musta\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\musta\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
